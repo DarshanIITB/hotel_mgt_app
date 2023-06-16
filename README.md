@@ -2,10 +2,10 @@
 ## Web Nominee Assignment
 <hr/>
 
-This application is built using MERN stack.
-<b>Mongo DB</b> for database management, 
-<b>Express.js</b> and Node.js for server runtime, 
-and <b>React.js</b> for front-end development.
+This application is built using MERN stack.<br>
+<b>Mongo DB</b> for database management,<br>
+<b>Express.js</b> and Node.js for server runtime,<br>
+and <b>React.js</b> for front-end development.<br>
 
 For the sake of simplicity I've used few modules at places.
 
