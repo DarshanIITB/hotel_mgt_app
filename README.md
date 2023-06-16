@@ -21,12 +21,12 @@ At this stage, the application has following features included:
 
 ### Front-end files
 
-<code>client</code> -> <code>src</code>
-                       |-<code>components</code> contains all components
-                       |-<code>screens</code> contains screens for register, login, landing page, hotels list, and booking screen
+<code>client</code> -> <code>src</code><br>
+                       |-<code>components</code> contains all components<br>
+                       |-<code>screens</code> contains screens for register, login, landing page, hotels list, and booking screen<br>
 
 ### Back-end files
 
-<code>index.js</code> runtime application
-<code>models</code> contains models for user, room, booking for storage on database
-<code>routes</code> contains api endpoints
+<code>index.js</code> runtime application<br>
+<code>models</code> contains models for user, room, booking for storage on database<br>
+<code>routes</code> contains api endpoints<br>
