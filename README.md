@@ -1,5 +1,4 @@
 # hotel_mgt_app
-## Web Nominee Assignment
 <hr/>
 
 This application is built using MERN stack.<br>
